@@ -27,9 +27,9 @@ Sou um jovem profissional de 21 anos, apaixonado por **tecnologia**, **desenvolv
 
 ### • Linguagens
 <div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/!%5BJava%5D" />
-  <img align="center" alt=".NET" height="30" width="40" src="https://img.shields.io/badge/!%5B.NET%5D">
-  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt=".NET" height="30" width="40" src="![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ### • Backend & Full Stack
